@@ -1,0 +1,4 @@
+interface:
+  display_name: "双模型文案协作"
+  short_description: "Lulu参考稿驱动DSH和Safari Gemini写稿、飞书评分与各自返修"
+  default_prompt: "使用 $copywriting-arena，根据本期选题和 Lulu 已转录参考稿，让 DSH、Safari 中的 Gemini 各写三篇，汇总到飞书评分并各自返修最高分稿。"
